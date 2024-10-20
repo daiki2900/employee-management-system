@@ -251,8 +251,8 @@ def delete_employee_record():
 
 
 # Create the main application window
-# 'darkly' is one of ttkbootstrap's themes
-app = ttkb.Window(themename="darkly")
+# 'litera' is one of ttkbootstrap's themes
+app = ttkb.Window(themename="litera")
 app.title("Employee Management System")
 app.geometry("900x600")  # Set the window size
 
